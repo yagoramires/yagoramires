@@ -57,7 +57,7 @@
     
 ## Social
 <div>
-  <a href="https://instagram.com/yagoramires" target="_blank"
+  <a href="https://instagram.com/yago.rmdr" target="_blank"
     ><img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       target="_blank"
