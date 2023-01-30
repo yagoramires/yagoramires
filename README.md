@@ -1,7 +1,7 @@
 ## Olá, Eu sou Yago Ramires! 😜
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React & TypeScript
+- 🔭 Desenvolvedor front-end
+- 🌱 Especialidade React JS & aprendendo TypeScript
 - 📫 Contate-me no e-mail: yago.ramiresx@gmail.com
 
 <div>
