@@ -1,21 +1,9 @@
-## Olá, Eu sou Yago Ramires! 😜
+## Olá, eu sou o Yago!
 
-- 🔭 Desenvolvedor front-end
+- 🔭 Desenvolvedor Front-end JR
 - 🌱 Especialidade React JS & aprendendo TypeScript
-- 📫 Contate-me no e-mail: yago.ramiresx@gmail.com
+- 📫 E-mail: yago.ramiresx@gmail.com
 
-<div>
-  <a href="https://github.com/yagoramires "></a>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yagoramires&show_icons=true&theme=merko&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=7&theme=merko"
-  />
-</div>
-    
 <div style="display: inline_block">
   <br />
   <img
@@ -54,6 +42,20 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
   />
 </div>
+
+<div>
+  <a href="https://github.com/yagoramires "></a>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=yagoramires&show_icons=true&theme=merko&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=7&theme=merko"
+  />
+</div>
+    
+
     
 ## Social
 <div>
