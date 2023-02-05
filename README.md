@@ -4,6 +4,9 @@
 - 🌱 Especialidade React JS & aprendendo TypeScript
 - 📫 E-mail: yago.ramiresx@gmail.com
 
+    
+<br/>
+
 <div style="display: inline_block">
   <br />
   <img
