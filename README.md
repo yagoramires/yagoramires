@@ -1,8 +1,8 @@
 ## Olá, eu sou o Yago!
 
-- 🔭 Desenvolvedor Front-end JR
-- 🌱 Especialidade React JS & aprendendo TypeScript
-- 📫 Contato: yago.ramiresx@gmail.com
+- Desenvolvedor Front-end JR
+- Especialidade React JS & aprendendo TypeScript
+- Contato: yago.ramiresx@gmail.com
 - LinkedIn: https://instagram.com/yago.rmdr
 
 ## Linguagens 
