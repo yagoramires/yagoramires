@@ -75,5 +75,5 @@
       target="_blank"
   /></a>
   
- // ![Snake animation](https://github.com/yagoramires/yagoramires/blob/output/github-contribution-grid-snake.svg)
-</div>
+ [comment]: < ![Snake animation](https://github.com/yagoramires/yagoramires/blob/output/github-contribution-grid-snake.svg)
+</div> >
