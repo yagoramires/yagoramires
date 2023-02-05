@@ -2,16 +2,8 @@
 
 - 🔭 Desenvolvedor Front-end JR
 - 🌱 Especialidade React JS & aprendendo TypeScript
-- 📫 E-mail: yago.ramiresx@gmail.com
-
-  <a
-    href="https://www.linkedin.com/in/yagoramires/"
-    target="_blank"
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-  /></a>
-
+- 📫 Contato: yago.ramiresx@gmail.com
+- LinkedIn: https://instagram.com/yago.rmdr
 
 ## Linguagens 
 <div style="display: inline_block">
@@ -64,29 +56,4 @@
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=7&theme=merko"
   />
-</div>
-    
-
-    
-## Redes
-<div>
-  <a href="https://instagram.com/yago.rmdr" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      target="_blank"
-  /></a>
-  <a href="mailto:yago.ramiresx@gmail.com@gmail.com"
-    ><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      target="_blank"
-  /></a>
-  <a
-    href="https://www.linkedin.com/in/yagoramires/"
-    target="_blank"
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-  /></a>
-  
-
 </div>
