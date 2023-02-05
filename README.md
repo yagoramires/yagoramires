@@ -4,9 +4,8 @@
 - 🌱 Especialidade React JS & aprendendo TypeScript
 - 📫 E-mail: yago.ramiresx@gmail.com
 
-    
-<br/>
 
+## Linguagens 
 <div style="display: inline_block">
   <br />
   <img
@@ -46,6 +45,7 @@
   />
 </div>
 
+## Estatísticas
 <div>
   <a href="https://github.com/yagoramires "></a>
   <img
