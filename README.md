@@ -45,7 +45,7 @@
   />
 </div>
 
-## Estatísticas
+## 
 <div>
   <a href="https://github.com/yagoramires "></a>
   <img
@@ -60,7 +60,7 @@
     
 
     
-## Social
+## Redes
 <div>
   <a href="https://instagram.com/yago.rmdr" target="_blank"
     ><img
