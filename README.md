@@ -3,7 +3,7 @@
 - Desenvolvedor Front-end JR
 - Especialidade React JS & aprendendo TypeScript
 - Contato: yago.ramiresx@gmail.com
-- LinkedIn: https://instagram.com/yago.rmdr
+- LinkedIn: https://www.linkedin.com/in/yagoramires/
 
 ## Linguagens 
 <div style="display: inline_block">
