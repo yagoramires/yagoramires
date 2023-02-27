@@ -1,4 +1,4 @@
-## Olá, eu sou o Yago!
+## Olá, eu sou o Yago! 🔥
 
 - Desenvolvedor Front-end JR
 - Especialidade React JS & aprendendo TypeScript
