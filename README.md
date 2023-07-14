@@ -2,6 +2,7 @@
 
 - Desenvolvedor Front-end JR
 - Especialidade React JS & aprendendo TypeScript
+- Portfolio: https://yagoramires.vercel.app
 - Contato: yago.ramiresx@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yagoramires/
 
