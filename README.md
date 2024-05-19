@@ -2,7 +2,7 @@
 
 - Estudante de Sistemas para Internet na Universidade IBMR
 - Desenvolvedor Front-end
-- Especialidade React JS & aprendendo TypeScript
+- Especialidade JavaScript & TypeScript
 - Portfolio: https://yagoramires.vercel.app
 - Contato: yago.ramiresx@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yagoramires/
