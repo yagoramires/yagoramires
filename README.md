@@ -1,8 +1,7 @@
 ## Olá, eu sou o Yago! 🔥
 
-- Estudante de Sistemas para Internet na Universidade IBMR
 - Desenvolvedor Front-end
-- Especialidade JavaScript & TypeScript
+- Especialidade React, Next, JavaScript & TypeScript
 - Portfolio: https://yagoramires.vercel.app
 - Contato: yago.ramiresx@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yagoramires/
