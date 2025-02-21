@@ -47,7 +47,7 @@
 </div>
 
 ## 
-<div>
+<div style={{display: "none"}}>
   <a href="https://github.com/yagoramires "></a>
   <img
     src="https://github-readme-stats-yago.vercel.app/api?username=yagoramires&theme=codeSTACKr&show=reviews,prs_merged,prs_merged_percentage&hide=issues&show_icons=true"
