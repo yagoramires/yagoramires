@@ -51,6 +51,14 @@
   <a href="https://github.com/yagoramires "></a>
   <img
     height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=yagoramires&show_icons=true&theme=merko"
+  />
+</div>
+
+<div>
+  <a href="https://github.com/yagoramires "></a>
+  <img
+    height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=7&theme=merko"
   />
 </div>
