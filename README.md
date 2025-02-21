@@ -51,7 +51,7 @@
   <a href="https://github.com/yagoramires "></a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=yagoramires&show_icons=true&theme=merko"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=yagoramires"
   />
 </div>
 
