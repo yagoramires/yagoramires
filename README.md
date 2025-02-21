@@ -51,7 +51,7 @@
   <a href="https://github.com/yagoramires "></a>
   <img
     height="180em"
-    src="https://github-readme-stats-yago.vercel.app/api?username=yagoramires"
+    src="https://github-readme-stats-yago.vercel.app/api?username=yagoramires&theme=codeSTACKr"
   />
 </div>
 
@@ -59,6 +59,6 @@
   <a href="https://github.com/yagoramires "></a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=7&theme=merko"
+    src="https://github-readme-stats-yago.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=7&theme=codeSTACKr"
   />
 </div>
