@@ -51,7 +51,7 @@
   <a href="https://github.com/yagoramires "></a>
   <img
     height="180em"
-    src="https://github-readme-stats-yago.vercel.app/api?username=yagoramires&theme=codeSTACKr"
+    src="https://github-readme-stats-yago.vercel.app/api?username=yagoramires&theme=codeSTACKr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
   />
 </div>
 
