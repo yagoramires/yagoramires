@@ -58,6 +58,6 @@
   <a href="https://github.com/yagoramires "></a>
   <img
     height="180em"
-    src="https://github-readme-stats-yago.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=7&theme=codeSTACKr"
+    src="https://github-readme-stats-yago.vercel.app/api/top-langs/?username=yagoramires&layout=compact&langs_count=10&theme=codeSTACKr"
   />
 </div>
